@@ -1,0 +1,405 @@
+{
+  "score": 23.0,
+  "tests": [
+    {
+      "test": "test_1",
+      "result": "PASS"
+    },
+    {
+      "test": "test_2",
+      "result": "PASS"
+    },
+    {
+      "test": "test_3",
+      "result": "PASS"
+    },
+    {
+      "test": "test_4",
+      "result": "PASS"
+    },
+    {
+      "test": "test_5",
+      "result": false
+    },
+    {
+      "test": "test_6",
+      "result": false
+    },
+    {
+      "test": "test_7",
+      "result": false
+    },
+    {
+      "test": "test_8",
+      "result": false
+    },
+    {
+      "test": "test_9",
+      "result": false
+    },
+    {
+      "test": "test_10",
+      "result": false
+    },
+    {
+      "test": "test_11",
+      "result": false
+    },
+    {
+      "test": "test_12",
+      "result": false
+    },
+    {
+      "test": "test_13",
+      "result": false
+    },
+    {
+      "test": "test_14",
+      "result": "PASS"
+    },
+    {
+      "test": "test_15",
+      "result": false
+    },
+    {
+      "test": "test_16",
+      "result": false
+    },
+    {
+      "test": "test_17",
+      "result": false
+    },
+    {
+      "test": "test_18",
+      "result": false
+    },
+    {
+      "test": "test_19",
+      "result": false
+    },
+    {
+      "test": "test_20",
+      "result": false
+    },
+    {
+      "test": "test_21",
+      "result": false
+    },
+    {
+      "test": "test_22",
+      "result": false
+    },
+    {
+      "test": "test_23",
+      "result": false
+    },
+    {
+      "test": "test_24",
+      "result": false
+    },
+    {
+      "test": "test_25",
+      "result": false
+    },
+    {
+      "test": "test_26",
+      "result": false
+    },
+    {
+      "test": "test_27",
+      "result": false
+    },
+    {
+      "test": "test_28",
+      "result": false
+    },
+    {
+      "test": "test_29",
+      "result": "PASS"
+    },
+    {
+      "test": "test_30",
+      "result": false
+    },
+    {
+      "test": "test_31",
+      "result": false
+    },
+    {
+      "test": "test_32",
+      "result": false
+    },
+    {
+      "test": "test_33",
+      "result": false
+    },
+    {
+      "test": "test_34",
+      "result": false
+    },
+    {
+      "test": "test_35",
+      "result": false
+    },
+    {
+      "test": "test_36",
+      "result": false
+    },
+    {
+      "test": "test_37",
+      "result": false
+    },
+    {
+      "test": "test_38",
+      "result": false
+    },
+    {
+      "test": "test_39",
+      "result": false
+    },
+    {
+      "test": "test_40",
+      "result": false
+    },
+    {
+      "test": "test_41",
+      "result": false
+    },
+    {
+      "test": "test_42",
+      "result": false
+    },
+    {
+      "test": "test_43",
+      "result": false
+    },
+    {
+      "test": "test_44",
+      "result": false
+    },
+    {
+      "test": "test_45",
+      "result": false
+    },
+    {
+      "test": "test_46",
+      "result": false
+    },
+    {
+      "test": "test_47",
+      "result": false
+    },
+    {
+      "test": "test_48",
+      "result": false
+    },
+    {
+      "test": "test_49",
+      "result": false
+    },
+    {
+      "test": "test_50",
+      "result": false
+    },
+    {
+      "test": "test_51",
+      "result": false
+    },
+    {
+      "test": "test_52",
+      "result": false
+    },
+    {
+      "test": "test_53",
+      "result": "PASS"
+    },
+    {
+      "test": "test_54",
+      "result": "PASS"
+    },
+    {
+      "test": "test_55",
+      "result": false
+    },
+    {
+      "test": "test_56",
+      "result": false
+    },
+    {
+      "test": "test_57",
+      "result": false
+    },
+    {
+      "test": "test_58",
+      "result": false
+    },
+    {
+      "test": "test_59",
+      "result": false
+    },
+    {
+      "test": "test_60",
+      "result": false
+    },
+    {
+      "test": "test_61",
+      "result": false
+    },
+    {
+      "test": "test_62",
+      "result": "PASS"
+    },
+    {
+      "test": "test_63",
+      "result": false
+    },
+    {
+      "test": "test_64",
+      "result": false
+    },
+    {
+      "test": "test_65",
+      "result": "PASS"
+    },
+    {
+      "test": "test_66",
+      "result": false
+    },
+    {
+      "test": "test_67",
+      "result": false
+    },
+    {
+      "test": "test_68",
+      "result": false
+    },
+    {
+      "test": "test_69",
+      "result": false
+    },
+    {
+      "test": "test_70",
+      "result": false
+    },
+    {
+      "test": "test_71",
+      "result": "PASS"
+    },
+    {
+      "test": "test_72",
+      "result": false
+    },
+    {
+      "test": "test_73",
+      "result": "PASS"
+    },
+    {
+      "test": "test_74",
+      "result": "PASS"
+    },
+    {
+      "test": "test_75",
+      "result": false
+    },
+    {
+      "test": "test_76",
+      "result": false
+    },
+    {
+      "test": "test_77",
+      "result": false
+    },
+    {
+      "test": "test_78",
+      "result": false
+    },
+    {
+      "test": "test_79",
+      "result": false
+    },
+    {
+      "test": "test_80",
+      "result": false
+    },
+    {
+      "test": "test_81",
+      "result": "PASS"
+    },
+    {
+      "test": "test_82",
+      "result": "PASS"
+    },
+    {
+      "test": "test_83",
+      "result": "PASS"
+    },
+    {
+      "test": "test_84",
+      "result": "PASS"
+    },
+    {
+      "test": "test_85",
+      "result": "PASS"
+    },
+    {
+      "test": "test_86",
+      "result": "PASS"
+    },
+    {
+      "test": "test_87",
+      "result": "PASS"
+    },
+    {
+      "test": "test_88",
+      "result": "PASS"
+    },
+    {
+      "test": "test_89",
+      "result": "PASS"
+    },
+    {
+      "test": "test_90",
+      "result": "PASS"
+    },
+    {
+      "test": "test_91",
+      "result": false
+    },
+    {
+      "test": "test_92",
+      "result": false
+    },
+    {
+      "test": "test_93",
+      "result": false
+    },
+    {
+      "test": "test_94",
+      "result": "expected (Your answer:) but found (What is the type of the following? \"1\" * 2)"
+    },
+    {
+      "test": "test_95",
+      "result": "expected (Your answer:) but found (What is the type of the following? \"1\" * 2)"
+    },
+    {
+      "test": "test_96",
+      "result": false
+    },
+    {
+      "test": "test_97",
+      "result": false
+    },
+    {
+      "test": "test_98",
+      "result": "expected (Your answer:) but found (What is the type of the following? \"1.0\" + \"2.0\")"
+    },
+    {
+      "test": "test_99",
+      "result": false
+    },
+    {
+      "test": "test_100",
+      "result": false
+    }
+  ]
+}
